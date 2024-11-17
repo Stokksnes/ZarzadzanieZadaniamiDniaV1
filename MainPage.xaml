@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="ZarzadzanieZadaniamiDnia.MainPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:viewModels="clr-namespace:ZarzadzanieZadaniamiDnia.ViewModels">
+
+    <ContentPage.BindingContext>
+        <viewModels:TaskViewModel />
+    </ContentPage.BindingContext>
+
+    <StackLayout Padding="10">
+        <Entry Placeholder="Wpisz zadanie" Text="{Binding NewNameTask}" />
+        <Entry Placeholder="Wpisz priorytet" Text="{Binding NewPriorityTask}" />
+        <Button Command="{Binding AddTaskCommand}" Text="Dodaj zadanie" />
+
+        <StackLayout
+            Margin="0,10,0,0"
+            Orientation="Horizontal"
+            Spacing="10">
+            <Button Command="{Binding SortByPriorityCommand}" Text="Sortuj po priorytecie" />
+            <Button Command="{Binding SortByStatusCommand}" Text="Sortuj po statusie" />
+            <Switch
+                IsToggled="False"
+                ThumbColor="Blue"
+                Toggled="OnFilterToggled" />
+            <Label Text="Pokaz zakończone" />
+        </StackLayout>
+
+        <ListView ItemsSource="{Binding Tasks}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Spacing="10">
+                            <CheckBox CheckedChanged="CheckBox_CheckedChanged" IsChecked="{Binding IsCompleted}" />
+                            <Label Text="{Binding Name}" VerticalOptions="Center" />
+                            <Label Text="{Binding Priority}" VerticalOptions="Center" />
+                            <Button
+                                Command="{Binding BindingContext.RemoveTaskCommand, Source={RelativeSource AncestorType={x:Type ContentPage}}}"
+                                CommandParameter="{Binding .}"
+                                Text="Usuń" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </StackLayout>
+
+</ContentPage>
