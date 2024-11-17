@@ -1,12 +1,12 @@
 ﻿//using AndroidX.Lifecycle;
-using ZarzadzanieZadaniamiDnia.ViewModels;
+using System.Collections.ObjectModel;
 using ZarzadzanieZadaniamiDnia.Json;
+using ZarzadzanieZadaniamiDnia.Models;
+using ZarzadzanieZadaniamiDnia.ViewModels;
 namespace ZarzadzanieZadaniamiDnia
 {
     public partial class MainPage : ContentPage
     {
-        int count = 0;
-
         public MainPage()
         {
             InitializeComponent();
@@ -27,7 +27,7 @@ namespace ZarzadzanieZadaniamiDnia
             var viewModel = BindingContext as TaskViewModel;
             if (viewModel != null)
             {
-                await viewModel.SaveTasksAsync();
+                await DeSSerializacja.SaveTasksAsync(viewModel.TasksFromFile);
             }
         }
 

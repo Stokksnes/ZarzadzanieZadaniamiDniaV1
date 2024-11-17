@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.ObjectModel;
 using System.Text.Json;
-using System.Threading.Tasks;
 using ZarzadzanieZadaniamiDnia.Models;
 
 namespace ZarzadzanieZadaniamiDnia.Json
@@ -26,6 +21,16 @@ namespace ZarzadzanieZadaniamiDnia.Json
                 return new ObservableCollection<SingleTask>();
             }
             var json = await File.ReadAllTextAsync(filePath);
+            return JsonSerializer.Deserialize<ObservableCollection<SingleTask>> (json) ?? new ObservableCollection<SingleTask>();
+        }
+        
+        public static ObservableCollection<SingleTask> LoadTasks()
+        {
+            if(!File.Exists(filePath))
+            {
+                return new ObservableCollection<SingleTask>();
+            }
+            var json = File.ReadAllText(filePath);
             return JsonSerializer.Deserialize<ObservableCollection<SingleTask>> (json) ?? new ObservableCollection<SingleTask>();
         }
 

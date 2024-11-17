@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amdph\\source\\repos\\ZarzadzanieZadaniamiDnia\\ZarzadzanieZadaniamiDnia.csproj": {}
+    "C:\\Users\\Jakub\\Desktop\\GrzegorzAID\\ZarzadzanieZadaniamiDniaV1\\ZarzadzanieZadaniamiDnia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amdph\\source\\repos\\ZarzadzanieZadaniamiDnia\\ZarzadzanieZadaniamiDnia.csproj": {
+    "C:\\Users\\Jakub\\Desktop\\GrzegorzAID\\ZarzadzanieZadaniamiDniaV1\\ZarzadzanieZadaniamiDnia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amdph\\source\\repos\\ZarzadzanieZadaniamiDnia\\ZarzadzanieZadaniamiDnia.csproj",
+        "projectUniqueName": "C:\\Users\\Jakub\\Desktop\\GrzegorzAID\\ZarzadzanieZadaniamiDniaV1\\ZarzadzanieZadaniamiDnia.csproj",
         "projectName": "ZarzadzanieZadaniamiDnia",
-        "projectPath": "C:\\Users\\amdph\\source\\repos\\ZarzadzanieZadaniamiDnia\\ZarzadzanieZadaniamiDnia.csproj",
-        "packagesPath": "C:\\Users\\amdph\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amdph\\source\\repos\\ZarzadzanieZadaniamiDnia\\obj\\",
+        "projectPath": "C:\\Users\\Jakub\\Desktop\\GrzegorzAID\\ZarzadzanieZadaniamiDniaV1\\ZarzadzanieZadaniamiDnia.csproj",
+        "packagesPath": "C:\\Users\\Jakub\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jakub\\Desktop\\GrzegorzAID\\ZarzadzanieZadaniamiDniaV1\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\amdph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -67,6 +67,10 @@
         "net8.0-android34.0": {
           "targetAlias": "net8.0-android",
           "dependencies": {
+            "CommunityToolkit.Maui": {
+              "target": "Package",
+              "version": "[9.1.1, )"
+            },
             "CommunityToolkit.Mvvm": {
               "target": "Package",
               "version": "[8.3.2, )"
@@ -136,6 +140,10 @@
         "net8.0-ios18.0": {
           "targetAlias": "net8.0-ios",
           "dependencies": {
+            "CommunityToolkit.Maui": {
+              "target": "Package",
+              "version": "[9.1.1, )"
+            },
             "CommunityToolkit.Mvvm": {
               "target": "Package",
               "version": "[8.3.2, )"
@@ -193,6 +201,10 @@
         "net8.0-maccatalyst18.0": {
           "targetAlias": "net8.0-maccatalyst",
           "dependencies": {
+            "CommunityToolkit.Maui": {
+              "target": "Package",
+              "version": "[9.1.1, )"
+            },
             "CommunityToolkit.Mvvm": {
               "target": "Package",
               "version": "[8.3.2, )"
@@ -251,6 +263,10 @@
         "net8.0-windows10.0.19041": {
           "targetAlias": "net8.0-windows10.0.19041.0",
           "dependencies": {
+            "CommunityToolkit.Maui": {
+              "target": "Package",
+              "version": "[9.1.1, )"
+            },
             "CommunityToolkit.Mvvm": {
               "target": "Package",
               "version": "[8.3.2, )"

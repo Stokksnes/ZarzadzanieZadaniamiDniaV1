@@ -27,7 +27,7 @@
             <Label Text="Pokaz zakończone" />
         </StackLayout>
 
-        <ListView ItemsSource="{Binding Tasks}">
+        <ListView ItemsSource="{Binding DisplayedTasks}">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
