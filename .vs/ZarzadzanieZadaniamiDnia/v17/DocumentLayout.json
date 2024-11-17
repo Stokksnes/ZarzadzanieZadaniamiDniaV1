@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\amdph\\source\\repos\\ZarzadzanieZadaniamiDnia\\",
+  "WorkspaceRootPath": "X:\\FolderGitHub\\ZarzadzanieZadaniamiDniaV1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{862D7BF5-651A-4F6E-B956-722EA89F87E1}|ZarzadzanieZadaniamiDnia.csproj|c:\\users\\amdph\\source\\repos\\zarzadzaniezadaniamidnia\\viewmodels\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{862D7BF5-651A-4F6E-B956-722EA89F87E1}|ZarzadzanieZadaniamiDnia.csproj|x:\\foldergithub\\zarzadzaniezadaniamidniav1\\viewmodels\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{862D7BF5-651A-4F6E-B956-722EA89F87E1}|ZarzadzanieZadaniamiDnia.csproj|solutionrelative:viewmodels\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{862D7BF5-651A-4F6E-B956-722EA89F87E1}|ZarzadzanieZadaniamiDnia.csproj|c:\\users\\amdph\\source\\repos\\zarzadzaniezadaniamidnia\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{862D7BF5-651A-4F6E-B956-722EA89F87E1}|ZarzadzanieZadaniamiDnia.csproj|x:\\foldergithub\\zarzadzaniezadaniamidniav1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{862D7BF5-651A-4F6E-B956-722EA89F87E1}|ZarzadzanieZadaniamiDnia.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{862D7BF5-651A-4F6E-B956-722EA89F87E1}|ZarzadzanieZadaniamiDnia.csproj|c:\\users\\amdph\\source\\repos\\zarzadzaniezadaniamidnia\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{862D7BF5-651A-4F6E-B956-722EA89F87E1}|ZarzadzanieZadaniamiDnia.csproj|x:\\foldergithub\\zarzadzaniezadaniamidniav1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{862D7BF5-651A-4F6E-B956-722EA89F87E1}|ZarzadzanieZadaniamiDnia.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{862D7BF5-651A-4F6E-B956-722EA89F87E1}|ZarzadzanieZadaniamiDnia.csproj|c:\\users\\amdph\\source\\repos\\zarzadzaniezadaniamidnia\\json\\desserializacja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{862D7BF5-651A-4F6E-B956-722EA89F87E1}|ZarzadzanieZadaniamiDnia.csproj|x:\\foldergithub\\zarzadzaniezadaniamidniav1\\json\\desserializacja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{862D7BF5-651A-4F6E-B956-722EA89F87E1}|ZarzadzanieZadaniamiDnia.csproj|solutionrelative:json\\desserializacja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{862D7BF5-651A-4F6E-B956-722EA89F87E1}|ZarzadzanieZadaniamiDnia.csproj|c:\\users\\amdph\\source\\repos\\zarzadzaniezadaniamidnia\\models\\singletask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{862D7BF5-651A-4F6E-B956-722EA89F87E1}|ZarzadzanieZadaniamiDnia.csproj|x:\\foldergithub\\zarzadzaniezadaniamidniav1\\models\\singletask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{862D7BF5-651A-4F6E-B956-722EA89F87E1}|ZarzadzanieZadaniamiDnia.csproj|solutionrelative:models\\singletask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{862D7BF5-651A-4F6E-B956-722EA89F87E1}|ZarzadzanieZadaniamiDnia.csproj|c:\\users\\amdph\\source\\repos\\zarzadzaniezadaniamidnia\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{862D7BF5-651A-4F6E-B956-722EA89F87E1}|ZarzadzanieZadaniamiDnia.csproj|x:\\foldergithub\\zarzadzaniezadaniamidniav1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{862D7BF5-651A-4F6E-B956-722EA89F87E1}|ZarzadzanieZadaniamiDnia.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -44,24 +44,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\amdph\\source\\repos\\ZarzadzanieZadaniamiDnia\\MainPage.xaml.cs",
+              "DocumentMoniker": "X:\\FolderGitHub\\ZarzadzanieZadaniamiDniaV1\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\amdph\\source\\repos\\ZarzadzanieZadaniamiDnia\\MainPage.xaml.cs",
+              "ToolTip": "X:\\FolderGitHub\\ZarzadzanieZadaniamiDniaV1\\MainPage.xaml.cs",
               "RelativeToolTip": "MainPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T13:39:05.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T13:39:05.093Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TaskViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\amdph\\source\\repos\\ZarzadzanieZadaniamiDnia\\ViewModels\\TaskViewModel.cs",
+              "DocumentMoniker": "X:\\FolderGitHub\\ZarzadzanieZadaniamiDniaV1\\ViewModels\\TaskViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\TaskViewModel.cs",
-              "ToolTip": "C:\\Users\\amdph\\source\\repos\\ZarzadzanieZadaniamiDnia\\ViewModels\\TaskViewModel.cs",
+              "ToolTip": "X:\\FolderGitHub\\ZarzadzanieZadaniamiDniaV1\\ViewModels\\TaskViewModel.cs",
               "RelativeToolTip": "ViewModels\\TaskViewModel.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAIwFYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T17:46:08.012Z",
               "EditorCaption": ""
@@ -70,40 +69,37 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "SingleTask.cs",
-              "DocumentMoniker": "C:\\Users\\amdph\\source\\repos\\ZarzadzanieZadaniamiDnia\\Models\\SingleTask.cs",
+              "DocumentMoniker": "X:\\FolderGitHub\\ZarzadzanieZadaniamiDniaV1\\Models\\SingleTask.cs",
               "RelativeDocumentMoniker": "Models\\SingleTask.cs",
-              "ToolTip": "C:\\Users\\amdph\\source\\repos\\ZarzadzanieZadaniamiDnia\\Models\\SingleTask.cs",
+              "ToolTip": "X:\\FolderGitHub\\ZarzadzanieZadaniamiDniaV1\\Models\\SingleTask.cs",
               "RelativeToolTip": "Models\\SingleTask.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T17:31:16.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T17:31:16.667Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "DeSSerializacja.cs",
-              "DocumentMoniker": "C:\\Users\\amdph\\source\\repos\\ZarzadzanieZadaniamiDnia\\Json\\DeSSerializacja.cs",
+              "DocumentMoniker": "X:\\FolderGitHub\\ZarzadzanieZadaniamiDniaV1\\Json\\DeSSerializacja.cs",
               "RelativeDocumentMoniker": "Json\\DeSSerializacja.cs",
-              "ToolTip": "C:\\Users\\amdph\\source\\repos\\ZarzadzanieZadaniamiDnia\\Json\\DeSSerializacja.cs",
+              "ToolTip": "X:\\FolderGitHub\\ZarzadzanieZadaniamiDniaV1\\Json\\DeSSerializacja.cs",
               "RelativeToolTip": "Json\\DeSSerializacja.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T17:59:29.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T17:59:29.279Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\amdph\\source\\repos\\ZarzadzanieZadaniamiDnia\\AppShell.xaml",
+              "DocumentMoniker": "X:\\FolderGitHub\\ZarzadzanieZadaniamiDniaV1\\AppShell.xaml",
               "RelativeDocumentMoniker": "AppShell.xaml",
-              "ToolTip": "C:\\Users\\amdph\\source\\repos\\ZarzadzanieZadaniamiDnia\\AppShell.xaml",
+              "ToolTip": "X:\\FolderGitHub\\ZarzadzanieZadaniamiDniaV1\\AppShell.xaml",
               "RelativeToolTip": "AppShell.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-16T13:44:57.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T13:44:57.418Z"
             }
           ]
         },
@@ -115,9 +111,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\amdph\\source\\repos\\ZarzadzanieZadaniamiDnia\\MainPage.xaml",
+              "DocumentMoniker": "X:\\FolderGitHub\\ZarzadzanieZadaniamiDniaV1\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
-              "ToolTip": "C:\\Users\\amdph\\source\\repos\\ZarzadzanieZadaniamiDnia\\MainPage.xaml",
+              "ToolTip": "X:\\FolderGitHub\\ZarzadzanieZadaniamiDniaV1\\MainPage.xaml",
               "RelativeToolTip": "MainPage.xaml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
